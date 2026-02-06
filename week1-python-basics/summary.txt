@@ -1,0 +1,4 @@
+Total students: 5
+Average Age: 26.8
+Average Score: 85.0
+Highest score: 95
